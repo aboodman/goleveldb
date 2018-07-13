@@ -14,7 +14,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/golang/snappy"
+	"gx/ipfs/QmZVX8BCeM4Fs57Ayit4rUZyJsTctY3qXbpG6CVFqpuNsk/snappy"
 
 	"github.com/syndtr/goleveldb/leveldb/cache"
 	"github.com/syndtr/goleveldb/leveldb/comparer"

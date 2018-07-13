@@ -1,0 +1,24 @@
+{
+  "author": "aa",
+  "bugs": {
+    "url": "https://github.com/syndtr/goleveldb"
+  },
+  "gx": {
+    "dvcsimport": "github.com/syndtr/goleveldb"
+  },
+  "gxDependencies": [
+    {
+      "author": "aa",
+      "hash": "QmZVX8BCeM4Fs57Ayit4rUZyJsTctY3qXbpG6CVFqpuNsk",
+      "name": "snappy",
+      "version": "0.0.0"
+    }
+  ],
+  "gxVersion": "0.12.1",
+  "language": "go",
+  "license": "",
+  "name": "goleveldb",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.0.0"
+}
+
